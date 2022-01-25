@@ -7,15 +7,12 @@
 **This is _Most_ important**
 ***Emargency***
 
-*list
-*list
-*list
+* list
+* list
+* list
 
-1.list
-2.list
-3.list
+1. list
+2. list
+3. list
 
--[x] タスク完了
--[ ] 未完了
-:EMOJICODE:
-:strawberry:
+:strawberry::cookie::tropical_drink:	
