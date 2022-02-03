@@ -17,3 +17,22 @@
 
 絵文字
 :strawberry::cookie::tropical_drink:	
+
+>引用
+>
+>>さらに引用
+
+コードを記載`rails s` バッククォートで囲む
+
+***
+---
+↑水平線
+
+[リンク表示](https://github.com/)
+
+https://github.com/
+
+|10000|20000|30000|
+|:--|--:|:--:|
+|align left|align right|align center|
+|300|200|300|
